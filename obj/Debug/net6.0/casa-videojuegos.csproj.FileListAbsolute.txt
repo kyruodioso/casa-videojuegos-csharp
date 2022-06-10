@@ -1,0 +1,15 @@
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/bin/Debug/net6.0/casa-videojuegos
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/bin/Debug/net6.0/casa-videojuegos.deps.json
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/bin/Debug/net6.0/casa-videojuegos.runtimeconfig.json
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/bin/Debug/net6.0/casa-videojuegos.dll
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/bin/Debug/net6.0/casa-videojuegos.pdb
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.csproj.AssemblyReference.cache
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.GeneratedMSBuildEditorConfig.editorconfig
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.AssemblyInfoInputs.cache
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.AssemblyInfo.cs
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.csproj.CoreCompileInputs.cache
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.dll
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/refint/casa-videojuegos.dll
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.pdb
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/casa-videojuegos.genruntimeconfig.cache
+/home/kyru/Escritorio/cursoCsharp/casa-videojuegos/obj/Debug/net6.0/ref/casa-videojuegos.dll
